@@ -1,13 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     PROFILE README — Fityora Office 
-     Repo: fityoraoffice/fityoraoffice
+     PROFILE README — Fityora Office
      ═══════════════════════════════════════════════════════════════ -->
 
 <img src="./assets/animated-banner.svg" width="100%" alt="Fityora Office Banner" />
 
 <div align="center">
 
-<img src="./assets/profile.jpg" width="180" alt="Fityora Office" />
+<img src="./assets/custom-avatar.svg" width="180" alt="Fityora Office" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Cool+Things+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing" />
 
@@ -21,7 +20,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=fityoraoffice&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Views" />
   <img src="https://img.shields.io/github/followers/fityoraoffice?label=Followers&style=flat-square&color=7aa2f7&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/fityoraoffice?label=Stars&style=flat-square&color=7aa2f7&logo=github" alt="Stars" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-✅-7aa2f7?style=flat-square" alt="Open to Work" />
 </p>
 
@@ -91,7 +89,7 @@ _Akan diisi otomatis oleh workflow `auto-projects.yml` setelah jalan pertama kal
 
 <div align="center">
 
-<!-- Ganti teks setelah badge/ dengan pencapaianmu -->
+<!-- Pakai Shields.io agar teksnya bisa beda-beda dan tidak kembar -->
 <img src="https://img.shields.io/badge/🏆_Open_Source_Hero-7aa2f7?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/🚀_First_Pull_Request-bb9af7?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/🔥_100_Days_of_Code-7dcfff?style=for-the-badge&logo=code&logoColor=white" />
@@ -123,42 +121,20 @@ _Akan diisi otomatis oleh workflow `auto-projects.yml` setelah jalan pertama kal
 
 <details>
 <summary><b>💬 Guestbook — tinggalkan pesan! (klik untuk buka)</b></summary>
-
 <br/>
-
 <div align="center">
-<p>Punya pertanyaan, saran, atau mau ngobrol? Tinggalkan pesan di discussion di bawah 👇</p>
 <a href="https://github.com/fityoraoffice/fityoraoffice/discussions">
   <img src="https://img.shields.io/badge/Buka%20Guestbook-7aa2f7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
-
 </details>
-
----
 
 <details>
 <summary><b>💻 WakaTime Stats (klik untuk buka)</b></summary>
-
 <br/>
-
 <!--START_SECTION:waka-->
 _Data muncul setelah workflow `waka.yml` jalan._
 <!--END_SECTION:waka-->
-
-</details>
-
----
-
-<details>
-<summary><b>📝 Latest Blog Posts (klik untuk buka)</b></summary>
-
-<br/>
-
-<!-- BLOG-POST-LIST:START -->
-_Artikel muncul setelah workflow `blog-posts.yml` jalan._
-<!-- BLOG-POST-LIST:END -->
-
 </details>
 
 ---
@@ -166,23 +142,11 @@ _Artikel muncul setelah workflow `blog-posts.yml` jalan._
 ## 🤝 Let's Connect
 
 <div align="center">
-
-<a href="mailto:cahyostoreoffice@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/fityoraa">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://t.me/fityoraa">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://wa.me/628139525985">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://github.com/fityoraoffice">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<a href="mailto:cahyostoreoffice@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/fityoraa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/fityoraa"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://wa.me/628139525985"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://github.com/fityoraoffice"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
@@ -190,7 +154,6 @@ _Artikel muncul setelah workflow `blog-posts.yml` jalan._
 <div align="center">
 
 ### 💡 "Talk is cheap. Show me the code." — Linus Torvalds
-
 ⭐️ From [fityoraoffice](https://github.com/fityoraoffice)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=120&section=footer" width="100%" />
