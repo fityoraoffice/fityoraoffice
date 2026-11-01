@@ -51,10 +51,10 @@
 
 ---
 
-### ✨ Cyber Zone
+### ✨ Aesthetic Anime Zone
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bWp3bnJzMGRnMnBsa3E4ZXRvMWQzaWhrNHh1OHV1aTRxMWZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbL9JpZ33h2b13zJ0s/giphy.gif" width="580" style="border-radius: 12px;" />
+  <img src="https://i.pinimg.com/736x/7a/e3/88/7ae3880b4fb3235d856d87439cd63001.jpg" width="580" style="border-radius: 12px;" />
 </div>
 
 ---
