@@ -18,10 +18,8 @@
     </filter>
   </defs>
 
-  <!-- Background -->
   <rect width="1200" height="220" fill="url(#bg)"/>
 
-  <!-- Glow orbs -->
   <circle cx="200" cy="100" r="80" fill="#7aa2f7" opacity="0.15" filter="url(#blur)">
     <animate attributeName="cx" values="200;250;200" dur="8s" repeatCount="indefinite"/>
   </circle>
@@ -29,7 +27,6 @@
     <animate attributeName="cx" values="1000;950;1000" dur="10s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Floating particles -->
   <g fill="#7dcfff" opacity="0.7">
     <circle cx="100" cy="50" r="2">
       <animate attributeName="cy" values="50;170;50" dur="6s" repeatCount="indefinite"/>
@@ -52,7 +49,6 @@
     </circle>
   </g>
 
-  <!-- Text -->
   <text x="600" y="105" text-anchor="middle" font-family="Fira Code, monospace" font-size="56" font-weight="800" fill="#ffffff">
     Fityora Office
     <animate attributeName="opacity" values="1;0.85;1" dur="4s" repeatCount="indefinite"/>
@@ -61,7 +57,6 @@
     FULLSTACK DEVELOPER · OPEN SOURCE ENTHUSIAST
   </text>
 
-  <!-- Wave lines -->
   <path d="M0,190 Q150,160 300,180 T600,180 T900,180 T1200,180 L1200,220 L0,220 Z" fill="url(#wave1)" opacity="0.4">
     <animate attributeName="d" values="M0,190 Q150,160 300,180 T600,180 T900,180 T1200,180 L1200,220 L0,220 Z;M0,175 Q150,195 300,175 T600,175 T900,175 T1200,175 L1200,220 L0,220 Z;M0,190 Q150,160 300,180 T600,180 T900,180 T1200,180 L1200,220 L0,220 Z" dur="5s" repeatCount="indefinite"/>
   </path>
