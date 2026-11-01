@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=CahyoStore%20👋&fontSize=38&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Digital%20Ecosystem%20|%20Automation%20&%20Web%20Solutions&descFontSize=15&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=Fityora%20Office%20👋&fontSize=38&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Digital%20Ecosystem%20|%20Automation%20&%20Web%20Solutions&descFontSize=15&descColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=520&lines=Welcome+to+CahyoStore+Ecosystem;Building+Seamless+Digital+Architectures;Optimizing+Terminal+Workflows+%26+Automation;Always+Innovating+and+Pushing+Boundaries" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=520&lines=Welcome+to+Fityora+Office+Ecosystem;Building+Seamless+Digital+Architectures;Optimizing+Terminal+Workflows+%26+Automation;Always+Innovating+and+Pushing+Boundaries" alt="Typing SVG" />
 </div>
 
 ---
@@ -29,7 +29,7 @@
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=cahyostore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ffcc&icon_color=ff007f&text_color=c0caf5" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=fityoraoffice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ffcc&icon_color=ff007f&text_color=c0caf5" width="100%" />
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@
 ### 📊 Github Metrics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahyostore&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ffcc&text_color=c0caf5" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fityoraoffice&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ffcc&text_color=c0caf5" width="98%" />
 </div>
 
 ---
@@ -79,6 +79,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,40,11,6&height=3&section=footer" />
-  <p style="font-size: 13px; color: #888; margin-top: 10px;">⚡ Powered by CahyoStore Infrastructure & Cyber Aesthetics ⚡</p>
-  <img src="https://komarev.com/ghpvc/?username=cahyostore&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <p style="font-size: 13px; color: #888; margin-top: 10px;">⚡ Powered by Fityora Office Infrastructure & Cyber Aesthetics ⚡</p>
+  <img src="https://komarev.com/ghpvc/?username=fityoraoffice&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
