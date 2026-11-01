@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
   <defs>
     <clipPath id="circle">
-      <circle cx="100" cy="100" r="95"/>
+      <circle cx="100" cy="100" r="93"/>
     </clipPath>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -14,18 +14,36 @@
       <stop offset="0%" stop-color="#7aa2f7">
         <animate attributeName="stop-color" values="#7aa2f7;#bb9af7;#7dcfff;#7aa2f7" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#bb9af7">
+      <stop offset="50%" stop-color="#bb9af7">
         <animate attributeName="stop-color" values="#bb9af7;#7dcfff;#7aa2f7;#bb9af7" dur="6s" repeatCount="indefinite"/>
       </stop>
+      <stop offset="100%" stop-color="#7dcfff">
+        <animate attributeName="stop-color" values="#7dcfff;#7aa2f7;#bb9af7;#7dcfff" dur="6s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
+    <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
-  <circle cx="100" cy="100" r="98" fill="none" stroke="url(#ring)" stroke-width="4" filter="url(#glow)">
+  <!-- Pulse ring behind avatar -->
+  <circle cx="100" cy="100" r="99" fill="url(#pulse)">
+    <animate attributeName="r" values="95;99;95" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Animated gradient ring -->
+  <circle cx="100" cy="100" r="97" fill="none" stroke="url(#ring)" stroke-width="4" filter="url(#glow)">
     <animate attributeName="stroke-width" values="4;6;4" dur="3s" repeatCount="indefinite"/>
   </circle>
 
-  <image href="https://www.image2url.com/r2/default/files/1793503153890-5b5821cb-3349-4da1-b58f-a0f4deb1a03e.jpg"
-         x="5" y="5" width="190" height="190"
+  <!-- Avatar image (ganti URL ini dengan foto kamu yang sudah diupload ke repo) -->
+  <image href="https://raw.githubusercontent.com/fityoraoffice/fityoraoffice/main/assets/profile.jpg"
+         x="7" y="7" width="186" height="186"
          clip-path="url(#circle)"
          preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Fallback jika gambar tidak ditemukan: inisial -->
+  <text x="100" y="115" text-anchor="middle" font-family="Fira Code, monospace" font-size="60" font-weight="700" fill="#7aa2f7" opacity="0.9">FO</text>
 </svg>
