@@ -11,7 +11,7 @@
 ### ✨ Featured Showcase
 
 <div align="center">
-  <img src="https://i.ibb.co.com/gZhVp0tN/7c7ce2be-ac82-4eef-9f37-07116790e814.jpeg" width="520" style="border-radius: 14px; box-shadow: 0 8px 24px rgba(0,255,204,0.2);" />
+  <img src="https://raw.githubusercontent.com/fityoraoffice/profile/main/7c7ce2be-ac82-4eef-9f37-07116790e814.jpeg" width="520" style="border-radius: 14px;" />
 </div>
 
 ---
@@ -20,16 +20,13 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="55%" valign="middle">
+    <td width="100%" valign="middle">
       <p align="left">
         🔭 Managing digital storefront ecosystems, interactive web utilities, and streamlined single-file applications.<br><br>
         ⚡ Passionate about clean dark-mode interfaces, glassmorphism layouts, robust backend security, and efficient workflow automation.<br><br>
         🎮 Exploring gaming integrations, performance tuning, and dynamic scripting utilities.<br><br>
         🎯 Mission: Delivering fast, optimized, and high-performance digital solutions.
       </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=fityoraoffice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ffcc&icon_color=ff007f&text_color=c0caf5" width="100%" />
     </td>
   </tr>
 </table>
@@ -47,14 +44,6 @@
 | **Tools & Automation** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | **Deployment Platforms** | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
-</div>
-
----
-
-### 📊 Github Metrics & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fityoraoffice&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ffcc&text_color=c0caf5" width="98%" />
 </div>
 
 ---
