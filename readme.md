@@ -106,11 +106,4 @@ const fityora = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=120&section=footer" width="100%" />
 
-</div>eap. Show me the code." — Linus Torvalds
-
-⭐️ From [fityoraoffice](https://github.com/fityoraoffice)
-
 </div>
-
-<!-- ═══════════ WAVE FOOTER ANIMASI ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=150&section=footer" width="100%" />
