@@ -9,7 +9,11 @@
 <div align="center">
 
 <!-- ═══════════ AVATAR CUSTOM ═══════════ -->
-<img src="./assets/custom-avatar.svg" width="180" alt="Fityora Office" />
+<img src="https://www.image2url.com/r2/default/files/1793503153890-5b5821cb-3349-4da1-b58f-a0f4deb1a03e.jpg"
+     width="180"
+     height="180"
+     alt="Fityora Office"
+     style="border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 0 30px #7aa2f7;" />
 
 <!-- ═══════════ TYPING ═══════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Cool+Things+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing" />
