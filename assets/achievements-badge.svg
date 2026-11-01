@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <defs>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
+    </linearGradient>
+    <linearGradient id="shineMove" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="transparent"/>
+      <animate attributeName="x1" values="-100%;100%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="196" height="56" rx="28" fill="url(#shine)"/>
+  <rect x="2" y="2" width="196" height="56" rx="28" fill="url(#shineMove)"/>
+  <text x="100" y="38" text-anchor="middle" font-family="Fira Code, monospace" font-size="18" font-weight="700" fill="#0d1117">🏆 Achievement</text>
+</svg>
