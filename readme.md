@@ -98,6 +98,7 @@ _Akan diisi otomatis oleh workflow `auto-projects.yml` setelah jalan pertama kal
 <img src="https://img.shields.io/badge/⭐_Rising_Star-1a1b27?style=for-the-badge&logo=star&logoColor=white" />
 
 </div>
+
 ---
 
 ## 🐍 Contribution Snake
