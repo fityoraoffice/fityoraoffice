@@ -38,12 +38,18 @@
     <animate attributeName="stroke-width" values="4;6;4" dur="3s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Avatar image (ganti URL ini dengan foto kamu yang sudah diupload ke repo) -->
-  <image href="https://raw.githubusercontent.com/fityoraoffice/fityoraoffice/main/assets/profile.jpg"
+  <!-- Avatar image — pakai URL yang kamu kirim -->
+  <image href="https://www.image2url.com/r2/default/files/1793503153890-5b5821cb-3349-4da1-b58f-a0f4deb1a03e.jpg"
          x="7" y="7" width="186" height="186"
          clip-path="url(#circle)"
-         preserveAspectRatio="xMidYMid slice"/>
+         preserveAspectRatio="xMidYMid slice"
+         crossorigin="anonymous"/>
 
-  <!-- Fallback jika gambar tidak ditemukan: inisial -->
-  <text x="100" y="115" text-anchor="middle" font-family="Fira Code, monospace" font-size="60" font-weight="700" fill="#7aa2f7" opacity="0.9">FO</text>
+  <!-- Fallback: jika gambar gagal load, tampilkan inisial FO -->
+  <text x="100" y="118" text-anchor="middle"
+        font-family="Fira Code, monospace" font-size="60" font-weight="700"
+        fill="#7aa2f7" opacity="0">
+    FO
+    <animate attributeName="opacity" values="0;0;0.9" dur="1s" begin="2s" fill="freeze"/>
+  </text>
 </svg>
