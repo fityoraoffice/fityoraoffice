@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/custom-avatar.svg" width="180" alt="Fityora Office" />
+<img src="./assets/profile.jpg" width="180" alt="Fityora Office" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Cool+Things+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing" />
 
