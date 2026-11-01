@@ -8,11 +8,19 @@
 
 ---
 
+### ✨ Featured Showcase
+
+<div align="center">
+  <img src="https://i.ibb.co.com/gZhVp0tN/7c7ce2be-ac82-4eef-9f37-07116790e814.jpeg" width="520" style="border-radius: 14px; box-shadow: 0 8px 24px rgba(0,255,204,0.2);" />
+</div>
+
+---
+
 ### 💻 About Me & Project
 
 <table align="center" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" valign="middle">
       <p align="left">
         🔭 Managing digital storefront ecosystems, interactive web utilities, and streamlined single-file applications.<br><br>
         ⚡ Passionate about clean dark-mode interfaces, glassmorphism layouts, robust backend security, and efficient workflow automation.<br><br>
@@ -20,7 +28,7 @@
         🎯 Mission: Delivering fast, optimized, and high-performance digital solutions.
       </p>
     </td>
-    <td width="45%" align="center" valign="top">
+    <td width="45%" align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=cahyostore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ffcc&icon_color=ff007f&text_color=c0caf5" width="100%" />
     </td>
   </tr>
@@ -51,14 +59,6 @@
 
 ---
 
-### ✨ Aesthetic Anime Zone
-
-<div align="center">
-  <img src="https://i.pinimg.com/736x/7a/e3/88/7ae3880b4fb3235d856d87439cd63001.jpg" width="580" style="border-radius: 12px;" />
-</div>
-
----
-
 ### 🌐 Direct Connection
 
 <div align="center">
@@ -79,6 +79,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,40,11,6&height=3&section=footer" />
-  <p style="font-size: 13px; color: #888;">⚡ Powered by CahyoStore Infrastructure & Cyber Aesthetics ⚡</p>
+  <p style="font-size: 13px; color: #888; margin-top: 10px;">⚡ Powered by CahyoStore Infrastructure & Cyber Aesthetics ⚡</p>
   <img src="https://komarev.com/ghpvc/?username=cahyostore&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
