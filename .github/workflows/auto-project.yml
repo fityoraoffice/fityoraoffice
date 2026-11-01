@@ -30,7 +30,7 @@ jobs:
             const filtered = repos.filter(r => !r.fork && r.name !== context.repo.owner);
             let projects = '';
 
-            filtered.forEach((repo, i) => {
+            filtered.forEach((repo) => {
               const desc = repo.description || 'No description';
               const lang = repo.language || 'Code';
               const stars = repo.stargazers_count > 0 ? `⭐ ${repo.stargazers_count} ` : '';
