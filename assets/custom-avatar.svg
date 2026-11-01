@@ -27,25 +27,20 @@
     </radialGradient>
   </defs>
 
-  <!-- Pulse ring behind avatar -->
   <circle cx="100" cy="100" r="99" fill="url(#pulse)">
     <animate attributeName="r" values="95;99;95" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.6;0.2;0.6" dur="3s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Animated gradient ring -->
   <circle cx="100" cy="100" r="97" fill="none" stroke="url(#ring)" stroke-width="4" filter="url(#glow)">
     <animate attributeName="stroke-width" values="4;6;4" dur="3s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Avatar image — pakai URL yang kamu kirim -->
-  <image href="https://www.image2url.com/r2/default/files/1793503153890-5b5821cb-3349-4da1-b58f-a0f4deb1a03e.jpg"
+  <image href="https://raw.githubusercontent.com/fityoraoffice/fityoraoffice/main/assets/profile.jpg"
          x="7" y="7" width="186" height="186"
          clip-path="url(#circle)"
-         preserveAspectRatio="xMidYMid slice"
-         crossorigin="anonymous"/>
+         preserveAspectRatio="xMidYMid slice"/>
 
-  <!-- Fallback: jika gambar gagal load, tampilkan inisial FO -->
   <text x="100" y="118" text-anchor="middle"
         font-family="Fira Code, monospace" font-size="60" font-weight="700"
         fill="#7aa2f7" opacity="0">
