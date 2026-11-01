@@ -5,6 +5,7 @@
 
 <div align="center">
 
+<!-- Avatar lokal (path relatif ke folder assets) -->
 <img src="./assets/custom-avatar.svg" width="160" alt="Fityora Office" />
 
 <h1>Fityora Office</h1>
@@ -68,7 +69,7 @@ const fityora = {
 
 <div align="center">
 
-<!-- GitHub Stats Extended — penerus aktif yang lebih stabil -->
+<!-- GitHub Stats Extended (penerus resmi yang lebih stabil) -->
 <img src="https://github-stats-extended.vercel.app/api?username=fityoraoffice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&count_private=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=fityoraoffice&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=FF6B6B&currStreakLabel=7aa2f7" width="48%" />
 
