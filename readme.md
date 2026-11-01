@@ -105,6 +105,7 @@ now:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fityoraoffice&theme=tokyonight" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fityoraoffice&theme=tokyonight" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fityoraoffice&theme=tokyonight&utcOffset=7" width="32%" />
+<img src="https://raw.githubusercontent.com/fityoraoffice/fityoraoffice/main/github-metrics.svg" width="95%" />
 
 </div>
 
