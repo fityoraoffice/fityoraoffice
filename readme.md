@@ -1,12 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     PROFILE README — Fityora Office
+     PROFILE README — Fityora Office 
      ═══════════════════════════════════════════════════════════════ -->
 
 <img src="./assets/animated-banner.svg" width="100%" alt="Fityora Office Banner" />
 
 <div align="center">
 
-<img src="./assets/profile.jpg" width="180" alt="Fityora Office" />
+<img src="./assets/custom-avatar.svg" width="180" alt="Fityora Office" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Cool+Things+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing" />
 
@@ -88,13 +88,11 @@ _Akan diisi otomatis oleh workflow `auto-projects.yml` setelah jalan pertama kal
 ## 🏆 Achievements
 
 <div align="center">
-
-<!-- Pakai Shields.io agar teksnya bisa beda-beda dan tidak kembar -->
+<!-- Menggunakan Shields.io agar teks dan warna bisa dibedakan -->
 <img src="https://img.shields.io/badge/🏆_Open_Source_Hero-7aa2f7?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/🚀_First_Pull_Request-bb9af7?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/🔥_100_Days_of_Code-7dcfff?style=for-the-badge&logo=code&logoColor=white" />
 <img src="https://img.shields.io/badge/⭐_Rising_Star-1a1b27?style=for-the-badge&logo=star&logoColor=white" />
-
 </div>
 
 ---
@@ -116,26 +114,6 @@ _Akan diisi otomatis oleh workflow `auto-projects.yml` setelah jalan pertama kal
 <div align="center">
 <img src="https://raw.githubusercontent.com/fityoraoffice/fityoraoffice/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
 </div>
-
----
-
-<details>
-<summary><b>💬 Guestbook — tinggalkan pesan! (klik untuk buka)</b></summary>
-<br/>
-<div align="center">
-<a href="https://github.com/fityoraoffice/fityoraoffice/discussions">
-  <img src="https://img.shields.io/badge/Buka%20Guestbook-7aa2f7?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-</details>
-
-<details>
-<summary><b>💻 WakaTime Stats (klik untuk buka)</b></summary>
-<br/>
-<!--START_SECTION:waka-->
-_Data muncul setelah workflow `waka.yml` jalan._
-<!--END_SECTION:waka-->
-</details>
 
 ---
 
