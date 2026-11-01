@@ -90,11 +90,14 @@ _Akan diisi otomatis oleh workflow `auto-projects.yml` setelah jalan pertama kal
 ## 🏆 Achievements
 
 <div align="center">
-<img src="./assets/achievements-badge.svg" width="220" />
-<img src="./assets/achievements-badge.svg" width="220" />
-<img src="./assets/achievements-badge.svg" width="220" />
-</div>
 
+<!-- Ganti teks setelah badge/ dengan pencapaianmu -->
+<img src="https://img.shields.io/badge/🏆_Open_Source_Hero-7aa2f7?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/🚀_First_Pull_Request-bb9af7?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/🔥_100_Days_of_Code-7dcfff?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/⭐_Rising_Star-1a1b27?style=for-the-badge&logo=star&logoColor=white" />
+
+</div>
 ---
 
 ## 🐍 Contribution Snake
