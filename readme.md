@@ -1,24 +1,16 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     PROFILE README — Fityora Office
+     PROFILE README — Fityora Office 
      Repo: fityoraoffice/fityoraoffice
      ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════ ANIMATED BANNER ═══════════ -->
 <img src="./assets/animated-banner.svg" width="100%" alt="Fityora Office Banner" />
 
 <div align="center">
 
-<!-- ═══════════ AVATAR CUSTOM ═══════════ -->
-<img src="https://www.image2url.com/r2/default/files/1793503153890-5b5821cb-3349-4da1-b58f-a0f4deb1a03e.jpg"
-     width="180"
-     height="180"
-     alt="Fityora Office"
-     style="border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 0 30px #7aa2f7;" />
+<img src="./assets/custom-avatar.svg" width="180" alt="Fityora Office" />
 
-<!-- ═══════════ TYPING ═══════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Cool+Things+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing" />
 
-<!-- ═══════════ SOCIAL BADGES ═══════════ -->
 <p>
   <a href="mailto:cahyostoreoffice@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/fityoraa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -26,7 +18,6 @@
   <a href="https://wa.me/628139525985"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<!-- ═══════════ STATUS BADGES ═══════════ -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=fityoraoffice&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Views" />
   <img src="https://img.shields.io/github/followers/fityoraoffice?label=Followers&style=flat-square&color=7aa2f7&logo=github" alt="Followers" />
@@ -62,9 +53,7 @@ const fityora = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,docker,git,github,linux&theme=dark" />
-
 </div>
 
 ---
