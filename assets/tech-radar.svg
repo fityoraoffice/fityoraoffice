@@ -12,7 +12,6 @@
 
   <rect width="400" height="400" fill="url(#radarBg)"/>
 
-  <!-- Radar circles -->
   <g fill="none" stroke="#7aa2f7" stroke-opacity="0.2" stroke-width="1">
     <circle cx="200" cy="200" r="40"/>
     <circle cx="200" cy="200" r="80"/>
@@ -20,7 +19,6 @@
     <circle cx="200" cy="200" r="160"/>
   </g>
 
-  <!-- Axis lines -->
   <g stroke="#7aa2f7" stroke-opacity="0.15" stroke-width="1">
     <line x1="200" y1="40" x2="200" y2="360"/>
     <line x1="40" y1="200" x2="360" y2="200"/>
@@ -28,13 +26,11 @@
     <line x1="313" y1="87" x2="87" y2="313"/>
   </g>
 
-  <!-- Data polygon (skill polygon) — ubah koordinat sesuai skill -->
   <polygon points="200,80 300,160 280,280 180,320 100,240 130,120"
            fill="url(#radarGlow)" stroke="#7aa2f7" stroke-width="2">
     <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
   </polygon>
 
-  <!-- Data points -->
   <g fill="#7dcfff">
     <circle cx="200" cy="80" r="5"/>
     <circle cx="300" cy="160" r="5"/>
@@ -44,7 +40,6 @@
     <circle cx="130" cy="120" r="5"/>
   </g>
 
-  <!-- Labels -->
   <g font-family="Fira Code, monospace" font-size="11" fill="#7aa2f7" font-weight="600">
     <text x="200" y="30" text-anchor="middle">Frontend</text>
     <text x="370" y="165" text-anchor="end">Backend</text>
