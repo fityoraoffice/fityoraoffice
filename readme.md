@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════
      PROFILE README — Fityora Office
-     Repo: fityoraoffice/myprofile
+     Repo: fityoraoffice/fityoraoffice
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
