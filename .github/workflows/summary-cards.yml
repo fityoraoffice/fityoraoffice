@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download profile details
+      - name: Download cards
         run: |
           mkdir -p profile-summary-card-output/tokyonight
           curl -s "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fityoraoffice&theme=tokyonight" -o profile-summary-card-output/tokyonight/0-profile-details.svg
