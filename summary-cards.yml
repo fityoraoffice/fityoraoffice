@@ -1,0 +1,32 @@
+name: Generate Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download profile details
+        run: |
+          mkdir -p profile-summary-card-output/tokyonight
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fityoraoffice&theme=tokyonight" -o profile-summary-card-output/tokyonight/0-profile-details.svg
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fityoraoffice&theme=tokyonight" -o profile-summary-card-output/tokyonight/1-repos-per-language.svg
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fityoraoffice&theme=tokyonight" -o profile-summary-card-output/tokyonight/2-most-commit-language.svg
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fityoraoffice&theme=tokyonight&utcOffset=7" -o profile-summary-card-output/tokyonight/3-productive-time.svg
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-summary-card-output/
+          git commit -m "chore: update summary cards [skip ci]" || exit 0
+          git push
